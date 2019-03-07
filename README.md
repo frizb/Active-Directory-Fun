@@ -1,2 +1,6 @@
-# Active-Directory-Fun
-Notes on Active Directory analysis and exploitation 
+# Active Directory Fun
+
+
+##BloodHound
+BloodHound is a powerful tool used to perform analysis on AD environments.
+
